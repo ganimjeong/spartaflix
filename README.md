@@ -27,9 +27,9 @@ It focuses on the functionality of storing data with Firebase
 - Bootstrap 기반의 깔끔한 UI
 
 > - Enter movie image, title, star rating, reason for recommendation and save to Firestore  
-- Dynamically display on screen in the form of saved review cards  
-- Real-time display of current temperature in Seoul with external API  
-- Clean UI based on Bootstrap  
+> - Dynamically display on screen in the form of saved review cards  
+> - Real-time display of current temperature in Seoul with external API  
+> - Clean UI based on Bootstrap  
 
 
 ## 사용 방법 | How to use
@@ -39,8 +39,8 @@ It focuses on the functionality of storing data with Firebase
 3. 저장된 리뷰들이 자동으로 카드 형태로 보여짐
 
 > 1. enter movie information and click 'Record' button  
-2. entered data is saved to Firebase Firestore  
-3. saved reviews are automatically displayed in the form of cards  
+> 2. entered data is saved to Firebase Firestore  
+> 3. saved reviews are automatically displayed in the form of cards  
 
 ---
 
