@@ -2,6 +2,7 @@
 
 Firebase를 연습하기 위해 구성한 영화 리뷰 웹앱 프로젝트입니다
 Firebase로 데이터가 저장되는 기능을 중점으로 제작하였습니다
+
 👉 **Demo:** [https://ganimjeong.github.io/sparta/]
 
 > A movie review webapp project built to practice with Firebase
@@ -25,7 +26,7 @@ It focuses on the functionality of storing data with Firebase
 - 외부 API로 서울 현재 기온 실시간 표시  
 - Bootstrap 기반의 깔끔한 UI
 
-- Enter movie image, title, star rating, reason for recommendation and save to Firestore  
+> - Enter movie image, title, star rating, reason for recommendation and save to Firestore  
 - Dynamically display on screen in the form of saved review cards  
 - Real-time display of current temperature in Seoul with external API  
 - Clean UI based on Bootstrap  
@@ -37,7 +38,7 @@ It focuses on the functionality of storing data with Firebase
 2. 입력된 데이터가 Firebase Firestore에 저장됨  
 3. 저장된 리뷰들이 자동으로 카드 형태로 보여짐
 
-1. enter movie information and click 'Record' button  
+> 1. enter movie information and click 'Record' button  
 2. entered data is saved to Firebase Firestore  
 3. saved reviews are automatically displayed in the form of cards  
 
