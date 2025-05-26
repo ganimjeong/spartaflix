@@ -3,7 +3,7 @@
 Firebase를 연습하기 위해 구성한 영화 리뷰 웹앱 프로젝트입니다
 Firebase로 데이터가 저장되는 기능을 중점으로 제작하였습니다
 
-👉 **Demo:** [https://ganimjeong.github.io/sparta/]
+👉 **Demo:** [https://ganimjeong.github.io/spartaflix/]
 
 > A movie review webapp project built to practice with Firebase
 It focuses on the functionality of storing data with Firebase
